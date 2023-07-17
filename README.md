@@ -1,2 +1,2 @@
 # ProjetosJavaOne
-Projetos Java ChallengerAlura-ONE
+Projetos Java Challenge-Alura-ONE
